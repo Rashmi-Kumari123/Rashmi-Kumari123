@@ -33,7 +33,7 @@
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 - ### 📊 Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmi Kumari &layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmi-Kumari123&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
