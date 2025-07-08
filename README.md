@@ -1,7 +1,6 @@
 <h1 align= "center">Rashmi Kumari 👩‍💻 </h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<img align="right" alt="Coding" width="400" src="file:///home/rashmi/Pictures/Gemini_Generated_Image.png">
 
 
 ### 🔥 Profile Views:
