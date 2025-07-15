@@ -27,13 +27,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rashmi-Kumari123&" alt="Rashmi-Kumari123" /></p>
 
-- ### 📊 Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmi-Kumari123&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-🏆 **GitHub Stats:**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rashmi-kumari123&show_icons=true&theme=radical)
 
 💡 **Coding Fact:**
 - we have bugs or errors in our code bc/z we are a human beings & human beings generally donot write code correctly the first time.
