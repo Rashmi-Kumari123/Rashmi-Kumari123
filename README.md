@@ -6,7 +6,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Rashmi-Kumari123&color=blue&style=flat)
 
 🌟 **About Me:**
-- 🔭 Currently learning java and its framework, advanced DSA ,and web development(full stack).
+- 🔭 Currently learning java and its framework, DSA,and web development(full stack).
 - 👀 I’m interested in to solve problem with logical reasoning.
 - 😄 Pronouns: She/her
 - 🌱 Real fact : Plan your actions today and those actions create your future.
